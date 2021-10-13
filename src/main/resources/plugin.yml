@@ -1,0 +1,4 @@
+name: Autosave
+version: '${project.version}'
+main: com.autosave.autosave.Autosave
+api-version: 1.17
